@@ -1,16 +1,23 @@
 ![André Justi](images/logo-github.png)
 
-<!--
-**justiandre/justiandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Lead** at **Mercado Livre**!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages that I use
+
+- **Most used**: ![](https://img.shields.io/badge/Golang-informational?style=flat-square&logo=go&logoColor=yellow&color=black) ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=yellow&color=black) ![](https://img.shields.io/badge/Kotlin-informational?style=flat-square&logo=kotlin&logoColor=yellow&color=black) 
+- **I don't use so much**: ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=yellow&color=black) ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=yellow&color=black) ![](https://img.shields.io/badge/ShellScript-informational?style=flat-square&logo=shell&logoColor=yellow&color=black) 
+
+---
+
+## My Contacts
+
+- E-mail: [**justi.andre@gmail.com**](mailto:justi.andre@gmail.com)
+- Site: [**andrejusti.com**](http://andrejusti.com/)
+- Linkedin: [**in/andrejusti**](https://www.linkedin.com/in/andrejusti/)
+- Twitter: [**@andrejusti**](https://twitter.com/andrejusti)
+
+---
+
+![](https://komarev.com/ghpvc/?username=justiandre&color=yellow&style=flat)
