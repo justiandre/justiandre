@@ -17,7 +17,7 @@
 - Site: [**andrejusti.com**](http://andrejusti.com/)
 - Linkedin: [**in/andrejusti**](https://www.linkedin.com/in/andrejusti/)
 - Twitter: [**@andrejusti**](https://twitter.com/andrejusti)
-- SlideHhare: [**/andrejusti**](https://www.slideshare.net/AndrJusti)
+- SlideShare: [**/andrejusti**](https://www.slideshare.net/AndrJusti)
 
 ---
 
