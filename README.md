@@ -17,7 +17,6 @@
 - E-mail: [**justi.andre@gmail.com**](mailto:justi.andre@gmail.com)
 - Linkedin: [**in/andrejusti**](https://www.linkedin.com/in/andrejusti/)
 - Gist: [**gist/justiandre**](https://gist.github.com/justiandre)
-- Twitter: [**@andrejusti**](https://twitter.com/andrejusti)
 - SlideShare: [**/andrejusti**](https://www.slideshare.net/AndrJusti)
 
 ---
